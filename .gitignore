@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+
+# Model Checkpoints
+*.h5
+*.pkl
+
+# Logs
+*.log
+
+# Temp files
+temp.*
